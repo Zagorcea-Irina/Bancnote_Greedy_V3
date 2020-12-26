@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609000733 source:c:\users\irina\desktop\proiect zagorcea\bancnote_cazul_3\cazul3\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
